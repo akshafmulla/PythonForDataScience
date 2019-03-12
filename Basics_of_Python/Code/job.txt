@@ -1,0 +1,7 @@
+Shubham Salunkhe,Scientist,1000000
+Akshaf Mulla,Scientist,100000000
+Ankit Bhanushali,Analyst,500000
+Rupesh Sangar,Analyst,500000
+Prajwal Pawar,Big Data Analyst,350000
+Yadnesh Sawant,AI Engineer,500000
+Pramod Kumavat,Project Analyst,500000

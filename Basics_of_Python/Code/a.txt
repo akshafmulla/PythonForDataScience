@@ -1,0 +1,7 @@
+RF
+Bagging
+SVM
+MBA
+Clustering
+Student_List = data.frame(Student_ID = 101:105,Student_Name = c("Mike","Henry","Tom","Harvey","Rachel"),Age = c(21,22,21,20,22),Department = c("IT","EX","EX","CS","IT"))
+DataFrame_Name = data.frame(col1_name = col1_values,col2_name = col2_values,...coln_name = coln_values)

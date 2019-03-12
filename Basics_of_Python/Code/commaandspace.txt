@@ -1,0 +1,10 @@
+with open("job.txt","r") as rf:
+    with open("Newjob.txt","w") as wf:
+        for line in rf:
+            print(line,end="")
+            name,job,income = line.split(",")
+            print(income)
+            income = int(income)
+            income += 1000
+            s = name +", "+ job+ ", " + str(income)+ "\n"
+            wf.write(s)
